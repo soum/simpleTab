@@ -55,7 +55,7 @@ a {
 .container.active {
     display: block;
 }
-.spacer {
+.tabs .spacer {
     height: 29px;
     width: 5px;
     border-top: 0 !important;
@@ -64,6 +64,6 @@ a {
     border-left:0 !important;
     border-right:0 !important;
 }
-.spacer:last-child {
-    width:58%;
+.tabs .spacer:last-child {
+    width:66%;
 }
